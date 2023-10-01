@@ -24,5 +24,5 @@ Group Members
 9. Input hyperparameters related to missile launch in **greeter_client.py** which are No. of Soldeirs(M), Size of WAR-Feild(N), War-time(T) and Duration after each missile hits(t).
     
 Demo Video
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/VIDEO_ID](https://youtu.be/_bKtbDXkohI?si=_BaLjbeUs9kmWdin)https://youtu.be/_bKtbDXkohI?si=_BaLjbeUs9kmWdin" frameborder="0" allowfullscreen></iframe>
+https://www.youtube.com/embed/VIDEO_ID](https://youtu.be/_bKtbDXkohI?si=_BaLjbeUs9kmWdin)https://youtu.be/_bKtbDXkohI?si=_BaLjbeUs9kmWdin
 
