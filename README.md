@@ -1,4 +1,4 @@
-# missile-launch-system-grpc
+# missile-defence-system-grpc
 Group Members
 1. Sudip Mahanti (2023H1120180P)
 2. Aniket Khalasi (2023H1120188P)
