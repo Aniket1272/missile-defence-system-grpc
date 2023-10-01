@@ -7,20 +7,19 @@ Group Members
 
 1. Ensure that Python and pip (usually comes with Python) are installed on your system.
 2. You can see the instructions of grpc installation in : https://grpc.io/docs/languages/python/quickstart/ or you can follow below commands
-4. Install **gRPC** on your system using following commands:
+3. Install **gRPC** on your system using following commands:
    ```
    python -m pip install grpcio  
-5. Now, To install **gRPC tools**, run:
+4. Now, To install **gRPC tools**, run:
    ```
    python -m pip install grpcio-tools
-6. Now, clone our repository in your system
-7. First run **greeter_server.py** file using below command:
+5. Now, clone our repository in your system
+6. First run **greeter_server.py** file using below command:
    ```
    python .\greeter_server.py
-8. After starting the server now run the **greeter_client.py** using below command:
+7. After starting the server now run the **greeter_client.py** using below command:
    ```
    python .\greeter_server.py
-9. Split your terminal into two for better view and then run this 2 files
-10. 
-11. Input hyperparameters related to missile launch in **greeter_client.py** which are No. of Soldeirs(M), Size of WAR-Feild(N), War-time(T) and Duration after each missile hits(t).
+8. Split your terminal into two for better view and then run this 2 files  
+9. Input hyperparameters related to missile launch in **greeter_client.py** which are No. of Soldeirs(M), Size of WAR-Feild(N), War-time(T) and Duration after each missile hits(t).
 
